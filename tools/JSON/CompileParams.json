@@ -1,0 +1,11 @@
+{  "default": {
+        "--ibconnection": "/F d:/Exchange/DevOps",
+        "--db-user": "Администратор",
+        "--db-pwd": "",
+        "--ordinaryapp": "0",
+        "--additional": "/DisplayAllFunctions /Lru  /iTaxi",
+        "--v8version": "8.3.16",
+        "--command": "СобратьСценарии;JsonParams=./tools/JSON/SPPRparams.json",
+        "--execute": "./build/СППР/СборкаТекстовСценариев.epf"
+    }
+}

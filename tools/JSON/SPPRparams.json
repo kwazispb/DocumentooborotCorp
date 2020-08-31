@@ -1,0 +1,11 @@
+{
+   "ВыполнятьСборкуПроцессов": "Истина",
+   "ВыполнятьСборкуСценариев": "Истина",
+   "ModelDBid":"Курс",
+   "ModelDBSettings":".\\build\\СППР\\Базы\\bases.yaml",
+   "ScenarioFolder":".\\build\\СППР\\Сценарии",
+   "ProcessFolder":".\\build\\СППР\\Процессы",
+   "FeatureFolder":".\\features\\СППР\\",
+   "LogFile": ".\\build\\СППР\\log.txt",
+   "VanessaFolder":"C:\\Program Files\\OneScript\\lib\\vanessa-automation"
+}

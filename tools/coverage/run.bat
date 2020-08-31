@@ -1,0 +1,1 @@
+@call perf-measurements-to-cover c -i="./perfomance/" -o="./result/genericCoverage.xml" -s="../../src/cf/"

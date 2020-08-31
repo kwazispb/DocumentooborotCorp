@@ -1,0 +1,15 @@
+{   "$schema": "https://raw.githubusercontent.com/silverbulleters/vanessa-runner/develop/vanessa-runner-schema.json",
+    "default": {
+        "--ibconnection": "/F./build/ib",
+        "--db-user": "Галкин",
+        "--db-pwd": "",
+        "--ordinaryapp": "0",
+        "--additional": "/DisplayAllFunctions /Lru  /iTaxi",
+        "--v8version": "8.3.16"
+    },
+    "vanessa": {
+        "--vanessasettings": "./tools/JSON/VBParamsAdd.json",
+        "--pathvanessa": "C:/Program Files (x86)/OneScript/lib/add/bddRunner.epf",
+        "--workspace": "."
+       }
+    }
